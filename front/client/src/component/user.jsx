@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 
 export default function Users() {
     const [user ,setuser]=useState([
-        // Name:"komal",Email:"komal@.cloudeq.com",Age:22
+        // Name:"komal",Email:"komal@.cloudeq.com",Age:21
 
     ])
 
